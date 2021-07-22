@@ -1,0 +1,29 @@
+{
+  "name": "testingforfront",
+  "version": "1.0.0",
+  "description": "Test front",
+  "main": "index.js",
+  "dependencies": {
+    "datejs": "^1.0.0-rc3",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "node-cron": "^3.0.0",
+    "puppeteer": "^9.1.1",
+    "puppeteer-screen-recorder": "^1.1.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "optica": "node ./index.js"
+  },
+  "author": "Kainar",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qlt2020/Puppeteer.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/qlt2020/Puppeteer/issues"
+  },
+  "homepage": "https://github.com/qlt2020/Puppeteer#readme"
+}
